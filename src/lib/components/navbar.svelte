@@ -9,8 +9,10 @@
     <a class="text font-bold" href="/"> IK </a>
   </div>
 
- <!-- <div class="dropdown dropdown-left lg:hidden">
+ <div class="dropdown dropdown-left lg:hidden">
+    <!-- svelte-ignore a11y-no-noninteractive-tabindex -->
     <div tabindex="0" class="m-1 btn">Links</div>
+    <!-- svelte-ignore a11y-no-noninteractive-tabindex -->
     <ul
       tabindex="0"
       class="bg-neutral rounded-box shadow text-neutral-content p-2 w-52 menu dropdown-content "
@@ -25,7 +27,7 @@
         About
       </a>
     </ul>
-  </div>-->
+  </div>
 
   <div class="flex-none hidden px-2 mx-2 lg:flex">
     <div class="flex items-stretch">
