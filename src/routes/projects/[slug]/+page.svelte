@@ -51,7 +51,7 @@
 </div>
 
 <div
-  class="mb-5 prose flex prose-a:text-primary hover:prose-a:text-primary-focus"
+  class="mb-5 prose flex prose-a:text-primary-focus hover:prose-a:text-primary-focus"
 >
   <a class="mr-5" href={data.project.demo}>Demo</a>
   <a href={data.project.sourceCode}>Source Code</a>
