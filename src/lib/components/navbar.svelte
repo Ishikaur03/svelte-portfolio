@@ -3,7 +3,7 @@
 </script>
 
 <div
-  class="navbar mb-16 bg-base-100 text-base-100-content sticky top-0 z-10"
+  class="navbar mb-16 bg-base-100 text-base-100-content top-0 z-10"
 >
   <div class="flex-1 px-2 mx-2">
     <a class="text font-bold" href="/"> IK </a>

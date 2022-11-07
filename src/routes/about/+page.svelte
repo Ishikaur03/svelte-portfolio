@@ -42,7 +42,7 @@
     <p class="text-xl mb-4">{intro}</p>
   </div>
 
-  <img class="mask mask-squircle h-48" src={url} alt={name} />
+  <img class="mask mask-circle border-4 border-neutral h-48" src={url} alt={name} />
 </div>
 
 <article div class="prose prose-lg">

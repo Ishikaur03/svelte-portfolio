@@ -42,7 +42,7 @@
     {#if data.project.tags}
       {#each data.project.tags as tag}
         <span
-          class="badge badge-primary mr-2 hover:bg-primary-focus cursor-pointer"
+          class="badge badge-primary-focus mr-2 hover:bg-primary-focus cursor-pointer"
           >{tag}</span
         >
       {/each}
